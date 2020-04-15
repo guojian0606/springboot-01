@@ -12,6 +12,7 @@ public class TestController {
         System.out.println(s1 == s2.intern());
 
         int i = 0;
+        int j = 1;
     }
 
 }

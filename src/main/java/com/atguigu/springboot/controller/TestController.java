@@ -10,6 +10,8 @@ public class TestController {
         System.out.println(s1 == s2);
         System.out.println(s1 == s3);
         System.out.println(s1 == s2.intern());
+
+        int i = 0;
     }
 
 }
